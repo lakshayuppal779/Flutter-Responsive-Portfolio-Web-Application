@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/your-project-name.git
+   git clone https://github.com/lakshayuppal779/Flutter-Responsive-Portfolio-Web-Application
    ```
 2. **Navigate to the project directory:**
    ```sh
