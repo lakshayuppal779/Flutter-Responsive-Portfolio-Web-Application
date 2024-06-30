@@ -36,12 +36,6 @@ To get a local copy up and running follow these simple steps:
    flutter run -d chrome
    ```
 
-## How to Use
-Simply visit the deployed web application at [deployed URL] or run it locally as described above. Navigate through the various sections to learn more about my professional capabilities and projects.
-
-## Deployment
-This application is deployed on [deployment service - e.g., Firebase, GitHub Pages, etc.]. You can access it [here](link-to-deployed-app).
-
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -55,10 +49,9 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn](your-linkedin-url)
-- **Portfolio**: [Your Portfolio](your-portfolio-url)
+- **Name**: [Lakshay uppal]
+- **Email**: [lakshayuppal123@gmail.com]
+- **LinkedIn**: [lakshay uppal](https://www.linkedin.com/in/lakshay-uppal-58a189286/)
 
 ## Acknowledgments
 - Use this section to list resources you find helpful and would like to give credit to.
